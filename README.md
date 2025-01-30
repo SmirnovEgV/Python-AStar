@@ -14,7 +14,9 @@ VSCode
 * [A youtube tutorial on how to make this](https://www.youtube.com/watch?v=JtiK0DOeI4A&t=3453s)
 * [Youtube explanation on what is A* and why it's interesting](https://www.youtube.com/watch?v=A60q6dcoCjw)
 
-# Future Work
+# Future Work (Yeah, in a few years may be...)
 
 * Apply algorithm to the map file
 * Make it multithread
+  
+[Nothing to see here ](https://youtu.be/B4sA7FsBzBw)
